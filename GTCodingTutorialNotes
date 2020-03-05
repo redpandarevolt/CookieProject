@@ -1,0 +1,62 @@
+<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+
+//Font Awesome Kit
+<script src="https://kit.fontawesome.com/433c4ae917.js" crossorigin="anonymous"></script>
+
+//font awesome cdn
+https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+/*<link rel="stylesheet" href=<script src="https://kit.fontawesome.com/433c4ae917.js" crossorigin="anonymous"></script>*/
+
+
+  <script src="js/scripts.js"></script>
+
+
+
+  project section removed from blogslist html page
+  <section>
+      <div class="card">
+          <div class="card-image">
+              <a href="blogpost.html">
+                  <img src="images/cookieMilk.jpg" width="500" height="325" alt="Card Image">
+              </a>
+          </div>
+
+          <div class="card-description">
+              <a href="blogpost.html">
+                  <h3>Cookie Compulsion</h3>
+              </a>
+              <p>
+                  The chocolate chip cookie that started it all! NESTLÉ®
+                  TOLL HOUSE® original chocolate chip cookies are a true
+                  classic and the go-to cookie for all occasions!
+              </p>
+              <a href="blogpost.html" class="btn-readmore">Read More</a>
+          </div>
+      </div>
+
+      <div class="card">
+          <div class="card-image">
+              <a href="blogpost.html">
+                  <img src="images/cookieCloseUp.jpg" width="500" height="325" alt="Card Image">
+              </a>
+          </div>
+
+          <div class="card-description">
+              <a href="blogpost.html">
+                  <h3>Cookie Compulsion</h3>
+              </a>
+              <p>
+                  The chocolate chip cookie that started it all! NESTLÉ®
+                  TOLL HOUSE® original chocolate chip cookies are a true
+                  classic and the go-to cookie for all occasions!
+              </p>
+              <a href="blogpost.html" class="btn-readmore">Read More</a>
+          </div>
+      </div>
+  </section>
