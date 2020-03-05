@@ -1,2 +1,2 @@
 # CookieProject
-Cookie website for a small business setting 
+Custom Developed Template theme for word press using PHP, HTML5, CSS3.
